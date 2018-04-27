@@ -1,8 +1,4 @@
-var spy = "'HELLO'";
-function logShout(spy) {
-  return spy.toUpperCase()
-}
-console.log(spy)
+
 
 function shout(string) {
   return string.toUpperCase()
